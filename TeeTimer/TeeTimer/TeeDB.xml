@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Datenbank>
+  <Teesorten>
+    <Teesorte>Schwarzer Tee</Teesorte>
+    <Teesorte>Grüner Tee</Teesorte>
+    <Teesorte>Roiboos</Teesorte>
+  </Teesorten>
+  <Lieferanten>
+    <Lieferant>Twinings</Lieferant>
+    <Lieferant>YogiTea</Lieferant>
+  </Lieferanten>
+  <Tees>
+    <Tee>
+      <Name>Lady Grey</Name>
+      <Lieferant>Twinings</Lieferant>
+      <Teesorte>Schwarzer Tee</Teesorte>
+      <ZiehzeitMinimum>3:45</ZiehzeitMinimum>
+      <ZiehzeitMaximum>5:15</ZiehzeitMaximum>
+      <Text>kommt eigentlich aus england...</Text>
+    </Tee>
+    <Tee>
+      <Name>GunPowder</Name>
+      <Lieferant>YogiTea</Lieferant>
+      <Teesorte>Grüner Tee</Teesorte>
+      <ZiehzeitMinimum>2:00</ZiehzeitMinimum>
+      <ZiehzeitMaximum>4:15</ZiehzeitMaximum>
+      <Text>nicht anzünden !</Text>
+    </Tee>
+  </Tees>
+</Datenbank>
